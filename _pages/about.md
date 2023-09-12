@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hey there,"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,12 +10,4 @@ redirect_from:
 
 <br>
 
-A data-driven personal website
-======
-
-Getting started
-======
-
-Create content & metadata
-------
-For site content, 
+Passionate   and   enthusiastic   Genetics   and   Plant   Breeding   scientist. Experience with soybean breeding, molecular genetics and biotechnological applications, bioinformatics analysis, and high throughput phenotyping. I am currently a Ph. D candidate working on Genomics and Bioinformatics in sweet corn, focusing on leveraging genetic diversity by exploring structural variants in the sweet corn population. My ultimate career goal is to contribute to research and technology development for plant breeding agriculture to improve human life and a sustainable world
