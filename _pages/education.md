@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+<br>
 
 - Ph.D. candidate in Horticultural Sciences – University of Florida (2021-2025)
 - M. Sc. in Genetics and Plant Breeding – University of Sao Paulo (2018-2020)
