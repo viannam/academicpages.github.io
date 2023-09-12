@@ -1,7 +1,7 @@
 ---
+layout: archive
 permalink: /projects/
 title: "Current projects"
-excerpt: "This is a page not in th emain menu"
 author_profile: true
 ---
 
