@@ -1,17 +1,16 @@
 ---
-permalink: /non-menu-page/
-title: "Page not in menu"
+permalink: /projects/
+title: "Current projects"
 excerpt: "This is a page not in th emain menu"
 author_profile: true
-redirect_from: 
-  - "/nmp/"
-  - "/nmp.html"
 ---
 
-This is a page not in the menu. You can use markdown in this page.
+<br>
 
-Heading 1
-======
+Exploring Structural Variants (SVs) in Sweet Corn:
 
-Heading 2
-======
+**Motivation**: Crop improvement relies on genetic diversity. By examining the genetic variation within a population, we can gain valuable insights into genetic   architecture,   evolution,   domestication,   and   adaptation.   This knowledge can help inform breeding decisions for improving yield and adapting to climate change. Our focus is on investigating the genetic diversity within a sweet corn panel. We will search for any structural variants linked to phenotypic traits and evaluate their potential for predicting traits. 
+
+**Objectives**: 
+- Link SVs with traits, explore genetic diversity, evaluate marker methods, and improve GWAS outcomes to benefit sweet corn production and breeding.
+- k-mer-based GWAS
