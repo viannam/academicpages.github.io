@@ -14,4 +14,4 @@ I am a passionate   and   enthusiastic   Genetics   and   Plant   Breeding   sci
 
 ![ifas](../assets/images/ifas.png)
 ![HOS](../assets/images/HOS.jpg)
-![lab](../assets/images/lab_log.jpg)
+![lab](../assets/images/lab_log.jpg){:width="10%" align="bottow"}
